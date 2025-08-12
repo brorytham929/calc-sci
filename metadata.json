@@ -1,0 +1,5 @@
+{
+  "name": "Modern Scientific Calculator",
+  "description": "A sleek, modern scientific calculator built with React and Tailwind CSS. It supports a wide range of mathematical functions, constants, and operations with an intuitive user interface.",
+  "requestFramePermissions": []
+}
